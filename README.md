@@ -7,7 +7,7 @@ The objective of this project was to uplift my understanding of Flutter and to l
 
 # Screenshots
 <p align=center>
-<img src="https://github.com/HorizonChaser12/FoodApp/assets/78254378/4d2c3fe0-04f4-4df2-9f94-fc3737903fe4" width="400px"  >
+<img src="https://github.com/HorizonChaser12/FoodApp/assets/78254378/c70ed9b8-5c8d-482c-a0ff-90082c941726" width="400px"  >
 
 
 <img src= "https://github.com/HorizonChaser12/FoodApp/assets/78254378/013c32b8-2387-4864-91d3-0b8ad505d4ab" width="400px" >
