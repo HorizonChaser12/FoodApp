@@ -16,7 +16,7 @@ The objective of this project was to uplift my understanding of Flutter and to l
 <hr>
 
 # Credits
-This project was solely made for educational purpose and is made from the wholesome video of [The Flutter Guy (Youtube)](https://www.youtube.com/watch?v=D4nhaszNW4o)
+This project was solely developed with the intentions for educational purposes and is made with the help of [The Flutter Guy (Youtube)](https://www.youtube.com/watch?v=D4nhaszNW4o)
 
 ## Getting Started
 
