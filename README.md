@@ -1,6 +1,10 @@
 # food_app
 
-A new Flutter project.
+This is a Food app frontend project made entirely using Flutter and Dart.
+The objective of this project was to uplift my understanding of Flutter and to learn in a project-based space.
+
+# Credits
+[Flutter Guy Youtube](https://www.youtube.com/watch?v=D4nhaszNW4o)
 
 ## Getting Started
 
