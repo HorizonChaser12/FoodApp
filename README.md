@@ -3,11 +3,14 @@
 This is a Frontend only Food App project made entirely using Flutter and Dart.
 The objective of this project was to uplift my understanding of Flutter and to learn in a project-based space.
 
+<hr>
+
 #Screenshots
 ![image](https://github.com/HorizonChaser12/FoodApp/assets/78254378/4d2c3fe0-04f4-4df2-9f94-fc3737903fe4)
 
 ![image](https://github.com/HorizonChaser12/FoodApp/assets/78254378/4da26de1-5345-4821-90f9-4345efb5e5a2)
 
+<hr>
 
 # Credits
 [Flutter Guy Youtube](https://www.youtube.com/watch?v=D4nhaszNW4o)
