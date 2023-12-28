@@ -1,6 +1,6 @@
 # food_app
 
-This is a Food app frontend project made entirely using Flutter and Dart.
+This is a Frontend only Food App project made entirely using Flutter and Dart.
 The objective of this project was to uplift my understanding of Flutter and to learn in a project-based space.
 
 # Credits
