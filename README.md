@@ -7,9 +7,9 @@ The objective of this project was to uplift my understanding of Flutter and to l
 
 #Screenshots
 
-<img src="https://github.com/HorizonChaser12/FoodApp/assets/78254378/4d2c3fe0-04f4-4df2-9f94-fc3737903fe4" width="400" >
+<img src="https://github.com/HorizonChaser12/FoodApp/assets/78254378/4d2c3fe0-04f4-4df2-9f94-fc3737903fe4" width="550" >
 
-<img src= "https://github.com/HorizonChaser12/FoodApp/assets/78254378/4da26de1-5345-4821-90f9-4345efb5e5a2" width="400" >
+<img src= "https://github.com/HorizonChaser12/FoodApp/assets/78254378/4da26de1-5345-4821-90f9-4345efb5e5a2" width="550" >
 
 <hr>
 
